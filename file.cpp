@@ -1,6 +1,8 @@
 #include<iostream>
 int main()
 {
-cout<<"Hello world";
+
+cout<<"Hi";
+cout<<"Me";
 return 0;
 }
